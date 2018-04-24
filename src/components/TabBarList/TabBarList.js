@@ -22,7 +22,7 @@ class TabBarList extends Component{
 					<Button color="success" id="tab_3" Onclick= { this.handleClick } >TAB_3</Button>
 
 					<h1>Commit en la rama test</h1>
-					<Button color="success" id="tab_3" Onclick= { this.handleClick } >Hola</Button>
+					<Button color="danger" id="tab_3" Onclick= { this.handleClick } >Hola</Button>
 			</div>
 		)
 
